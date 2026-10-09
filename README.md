@@ -1,8 +1,8 @@
 # Olá, eu sou o Roberto 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-☕ Java |🗄️ SQL |🧩HTML5 e CSS3
-🍃 Spring Boot
+🎓 Estudante de Análise e Desenvolvimento de Sistemas                                                                                                    
+☕ Java |🗄️ SQL |🧩HTML5 e CSS3                                                                                                                  
+🍃 Spring Boot                                                                                                                      
 
 ## 🤓 Sobre mim
 
